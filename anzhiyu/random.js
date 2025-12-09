@@ -1,3 +1,3 @@
-var posts=["2025/11/25/hello-world/"];function toRandomPost(){
+var posts=["2025/12/09/Edu板刷记录/","2025/11/25/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
