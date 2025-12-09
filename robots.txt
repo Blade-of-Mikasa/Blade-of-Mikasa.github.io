@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Blade-of-Mikasa.github.io/sitemap.xml
