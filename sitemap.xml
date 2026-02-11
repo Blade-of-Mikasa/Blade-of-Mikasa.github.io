@@ -56,6 +56,13 @@
 
   
   <url>
+    <loc>https://blade-of-mikasa.github.io/tags/Edu/</loc>
+    <lastmod>2026-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blade-of-mikasa.github.io/tags/lab/</loc>
     <lastmod>2026-02-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -64,13 +71,6 @@
   
   <url>
     <loc>https://blade-of-mikasa.github.io/tags/OS/</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blade-of-mikasa.github.io/tags/Edu/</loc>
     <lastmod>2026-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
