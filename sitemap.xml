@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blade-of-mikasa.github.io/2026/02/12/mit-6-1810-2-system-calls/</loc>
+    <loc>https://blade-of-mikasa.github.io/2026/02/09/mit-6-1810-1-Xv6-and-Unix-utilities/</loc>
     
     <lastmod>2026-02-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blade-of-mikasa.github.io/2026/02/09/mit-6-1810-1-Xv6-and-Unix-utilities/</loc>
+    <loc>https://blade-of-mikasa.github.io/2026/02/12/mit-6-1810-2-system-calls/</loc>
     
     <lastmod>2026-02-11</lastmod>
     
@@ -56,6 +56,13 @@
 
   
   <url>
+    <loc>https://blade-of-mikasa.github.io/tags/Edu/</loc>
+    <lastmod>2026-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blade-of-mikasa.github.io/tags/lab/</loc>
     <lastmod>2026-02-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -64,13 +71,6 @@
   
   <url>
     <loc>https://blade-of-mikasa.github.io/tags/OS/</loc>
-    <lastmod>2026-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blade-of-mikasa.github.io/tags/Edu/</loc>
     <lastmod>2026-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
